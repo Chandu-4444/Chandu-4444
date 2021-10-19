@@ -1,1 +1,24 @@
-### I'm Kiran
+# 🌴 Hey there, I'm Kiran 🤝
+I'm a CS student 👨‍💻 who loves to explore anything that interests me :wink:. I love to know why and how things work under the hood and this encourages and excites me to dig deep into certain topics. Learning something new gives me a thrill and this has always been my driving force. 
+
+### What can I do ❓
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Chandu-4444&theme=radical&show_icons=true">](https://github.com/Chandu-4444)
+- I can code Java, C, C++, Python, Javascript, Django, HTML, CSS.
+- I'm more of a developer kind and ofcourse loves algorithmic problems but not into competitive programming much.
+- I'm an ML guy (You might have guessed it! :sweat_smile:). I don't just want to code off the snippet from the web and imporve it, I want to know what's the crux of those algorithms. This made me to learn a bit of maths (Which I sadly neglected during my first year :man_facepalming:)
+- Now, I'm into Deep Learning and looking forward to strengthen myself in this area.
+- I'm also an open source enthusiast (Yeah, enthusiast). I believe open source is something we should be thankful where people work day and night without expecting much profit (Or no profit to be precise). I'd love to be a part of this system and do my best to help my favourite projects.
+
+<hr>
+
+| Connect with me 🔗  | Skills 🎩 |
+| ------------- | ------------- |
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chandra-kiran-guntur-1704511b4/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Chandu-4444) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/CHANDRAKIRANG5)  | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+
+
+### Some stats 📊
+| Most used Languages 💻 | Total coding time ⏲️ |
+| ------------- | ------------- |
+| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu-4444&layout=compact">](https://github.com/Chandu-4444)| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chandu_4444">](https://github.com/Chandu-4444)
+
+
