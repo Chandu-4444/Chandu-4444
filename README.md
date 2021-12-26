@@ -1,5 +1,5 @@
 # 🌴 Hey there, I'm Kiran 🤝
-I'm a CS student 👨‍💻 who loves to explore anything that interests me :wink:. I love to know why and how things work under the hood, this encourages and excites me to dig deep into certain topics. Learning something new gives me a thrill and this has always been my driving force. 
+I'm a CS student 👨‍💻 who loves to explore anything that interests me. I love to know why and how things work under the hood, this encourages and excites me to dig deep into certain topics. Learning something new gives me a thrill and this has always been my driving force. 
 
 ### What can I do ❓
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Chandu-4444&theme=radical&show_icons=true">](https://github.com/Chandu-4444)
